@@ -1,4 +1,6 @@
 
 ## Ejemplo
 
- - [Mapa](https://rise-group.github.io/example/test.html)
+ - [Piloto](https://rise-group.github.io/example/test.html)
+ 
+ - [Impedancia](https://rise-group.github.io/example/impedancia.html)
